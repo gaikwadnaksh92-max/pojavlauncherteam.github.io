@@ -1,4 +1,4 @@
-# Contributing to this website
+taksh123 Contributing to this website
 
 We're always happy to accept help from our beloved community, and this website is no different. However, we want to cover some ground rules before you get started.
 
